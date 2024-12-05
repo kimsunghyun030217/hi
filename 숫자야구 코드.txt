@@ -15,7 +15,7 @@ for i, p in enumerate(people):
     else:
         print(0)
 
-
+//수정함//
 def solution(numbers, k):
     answer = []
     count = 1
